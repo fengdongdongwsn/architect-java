@@ -1,12 +1,6 @@
 **本文整理于github上各大star大神仓库。并根据自己的理解重新进行了整理**
 
-##  👨🏻‍💻 About Me 
-
-| 个人网站                                                     | 公众号                                          | 掘金                                                         | 知乎                                                         | **CSDN**                                                     | **头条**                                                     |
-| ------------------------------------------------------------ | ----------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [点我直达](https://www.javachat.cc/)                         | [点我直达](https://imgchr.com/i/rJnbO1)         | [点我直达](https://juejin.cn/user/1978776660213837/posts)    | [点我直达](https://www.zhihu.com/people/feng-dong-dong-10)   | [点我直达](https://blog.csdn.net/SDDDLLL)                    | [点我直达](https://www.toutiao.com/c/user/token/MS4wLjABAAAAfhLQnyWhG1iqEVx_lsnoX7cUOlluuJf07J368xBJ7jU/) |
-| **百家号**                                                   | **Segmentfault**                                | **教程资源（5T）**                                           | **学习路线**                                                 | **博客文章**                                                 |                                                              |
-| [点我直达](https://author.baidu.com/home?from=bjh_article&app_id=1634941951856739) | [点我直达](https://segmentfault.com/u/a_yugong) | [点我直达](https://mp.weixin.qq.com/s/nIODGnCKFgs3BTZ9Qy5rHQ?scene=25#wechat_redirect) | [点击直达](https://mp.weixin.qq.com/s/UTV2GXtBdX-oLh7M9LTEvQ) | [点击直达](https://mp.weixin.qq.com/s/wZ_4fy_F-NecMv3HO4Hfjw) |                                                              |
+> **本文持续更新中**
 
 ## 页内目录
 
