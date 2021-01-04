@@ -4,202 +4,6 @@
 
 > **本文持续更新中**
 
-## 页内目录
-
-**[一、计算机基础](#一计算机基础)**
-
-​		 [1、数据结构](#1数据结构)
-
-​				[（1）基本数据结构](#1基本数据结构)
-
-​				[（2）树](#2树)
-
-​				[（3）图](#3图)
-
-​				[（4）排序算法](#4排序算法)
-
-​				[（5）查找算法](#5查找算法)
-
-​				[（6）常见算法](#6常见算法)
-
-​		[2、计算机网络](#2计算机网络)
-
-​				[（1）协议](#1协议)
-
-​				[（2）网络模型](#2网络模型)
-
-​				[（3）序列化](#3序列化)
-
-​		[3、操作系统](#3操作系统)
-
-​				[（1）基本知识](#1基本知识)
-
-​				[（2）进程与线程](#2进程与线程)
-
-​				[（3）内存管理](#3内存管理)
-
-[二、java基础](#二java基础)
-
-​		[1、面向对象基础](1面向对象基础)
-
-​		[2、java集合](#2java集合)
-
-​		[3、关键字和类](#3关键字和类)
-
-​		[4、java高级特点](#4java高级特点)
-
-​		[5、并发库](#5并发库)
-
-​		[6、JVM](#6jvm-1)
-
-[三、必备基础](三必备基础)
-
-[1、设计模式](#1设计模式)
-
-[2、Linux](#2Linux)
-
-[3、代码工具](#3代码工具)
-
-[四、数据库](#四数据库)
-
-[1、mysql]
-
-[2、Redis]
-
-[3、MongoDB]
-
-[4、Hbase]
-
-[五、常用基本框架](#五常用基本框架)
-
-[1、servlet]
-
-[2、Spring系列家族]
-
-[3、Mybatis]
-
-[4、JPA]
-
-[5、Netty]
-
-[6、websocket]
-
-[六、运维统计相关](#六运维统计相关)
-
-[1、平台监控]
-
-[2、APM]
-
-[3、持续集成]
-
-[4、容器相关]
-
-[5、虚拟化]
-
-[6、自动化运维]
-
-[7、测试]
-
-[七、中间件](#七中间件)
-
-[1、web]
-
-[2、服务器]
-
-[3、缓存]
-
-[4、消息队列]
-
-[5、RPC]
-
-[6、定时任务]
-
-[7、数据库中间件]
-
-[8、搜索引擎]
-
-[八、微服务](#八微服务)
-
-[1、微服务框架]
-
-[2、注册中心]
-
-[3、服务调用]
-
-[4、负载均衡]
-
-[5、网关]
-
-[6、配置中心]
-
-[7、链路跟踪]
-
-[九、分布式](#九分布式)
-
-[1、分布式理论]
-
-[2、一致性算法]
-
-[3、分布式文件系统]
-
-[4、分布式ID]
-
-[5、分布式事务]
-
-[6、稳定性高可用方案]
-
-[十、安全](#十安全)
-
-[1、web安全]
-
-[2、加密解密算法]
-
-[3、框架]
-
-[4、授权认证]
-
-[十一、项目管理](#十一项目管理)
-
-[1、开发设计]
-
-[2、项目管理]
-
-[3、架构管理]
-
-[十二、大数据云计算](#十二大数据云计算)
-
-[1、流式计算]
-
-[2、Hadoop]
-
-[十三、开发工具](#十三开发工具)
-
-[十四、学习资源](#十四学习资源)
-
-[1、视频网站](#1视频网站)
-
-[2、博客社区](#2博客社区)
-
-[3、技术手册](3技术手册)
-
-[4、行业资讯](#4行业资讯)
-
-[5、代码托管](#5代码托管)
-
-[6、电子书网站](#6电子书网站)
-
-[7、程序员交流网站](#7程序员交流网站)
-
-[8、云服务器](#8云服务器)
-
-[9、面试刷题](#9面试刷题)
-
-[11、数据资源下载](#11数据资源下载)
-
-[12、编程外包](#12编程外包)
-
-
-
 ## 一、计算机基础
 
 ### 1、数据结构
@@ -886,89 +690,88 @@
 
 ### 1、视频网站
 
-- B站
-- 慕课网
-- 中国大学MOOC网
+- [B站](https://www.bilibili.com/)
+- [慕课网](https://www.imooc.com/)
+- [中国大学MOOC网](https://www.icourse163.org/category/all)
 
 ### 2、博客社区
 
-- CSDN
-- 开源中国
-- 简书
-- 思否
-- 掘金
-- 博客园
-- 阿里云社区
-- 开发者头条
+- [CSDN](https://www.csdn.net/)
+- [开源中国](https://www.oschina.net/)
+- [简书](https://www.jianshu.com/)
+- [思否](https://segmentfault.com/)
+- [掘金](https://juejin.cn/)
+- [博客园](https://www.cnblogs.com/)
+- [阿里云社区](https://developer.aliyun.com/)
+- [开发者头条](https://toutiao.io/)
 - Medium
 
 ### 3、技术手册
 
-- W3Cschool
-- Runoob.com
-- 慕课网教程手册
+- [W3Cschool](https://www.w3cschool.cn/)
+- [Runoob.com](https://www.runoob.com/)
+- [慕课网教程手册](http://www.imooc.com/wiki/)
 
 ### 4、行业资讯
 
-- 知乎
-- stackoverflow
+- [知乎](https://www.zhihu.com/)
+- [stackoverflow](https://stackoverflow.com/)
 
 ### 5、代码托管
 
-- github
-- gitee
-- coding
+- [github](https://github.com/)
+- [gitee](https://gitee.com/)
+- [coding](https://coding.net/)
 
 ### 6、电子书网站
 
-- gitbook
-- aibooks
-- 书栈网
-- 搬书匠
-- 鸠摩搜索
-- IT-ebooks国外免费
+- [gitbook](https://www.gitbook.com/)
+- [aibooks](https://www.aibooks.club/)
+- [书栈网](https://www.bookstack.cn/)
+- [搬书匠](http://www.banshujiang.cn/)
+- [鸠摩搜索](https://www.jiumodiary.com/)
+- [IT-ebooks国外免费](https://it-ebooks.info/)
 
 ### 7、程序员交流网站
 
-- V2EX
-- 知乎
+- [V2EX](https://www.v2ex.com/)
 
 ### 8、云服务器
 
-- 阿里云
-- 腾讯云
-- 百度云
-- 华为云
-- 七牛云
-- 西部数据
-- 金山云
+- [阿里云](https://www.aliyun.com/)
+- [腾讯云](https://cloud.tencent.com/)
+- [百度云](https://cloud.baidu.com/)
+- [华为云](https://www.huaweicloud.com/)
+- [七牛云](https://www.qiniu.com/)
+- [西部数据](https://www.west.cn/)
+- [金山云](https://www.ksyun.com/)
 
 ### 9、面试刷题
 
-- LinkCode
-- LeetCode
-- 牛客网
+- [LinkCode](http://www.linkedcode.com/)
+- [LeetCode](https://leetcode-cn.com/)
+- [牛客网](https://www.nowcoder.com/)
 
 ### 10、找工作
 
-- 100offer
-- 拉勾网
+- [100offer](http://www.cfenews.com/100offerwang/)
+- [拉勾网](https://www.lagou.com/)
 
 ### 11、数据资源下载
 
-- 国家数据
-- MSDN
-- PUDN
-- OPSX阿里巴巴开源镜像
-- TUNA清华开源软件
-- 163网易开源镜像
+- [国家数据](https://data.stats.gov.cn/easyquery.htm?cn=A01)
+- [MSDN](https://msdn.itellyou.cn/)
+- [PUDN](http://www.pudn.com/)
+- [OPSX阿里巴巴开源镜像](http://www.pudn.com/)
+- T[UNA清华开源软件](https://mirrors.tuna.tsinghua.edu.cn/)
+- [163网易开源镜像](http://mirrors.163.com/)
 
 ### 12、编程外包
 
-- 大神部落
-- 程序员客栈
-- 码市
-- 开源众包
+- [大神部落](http://www.buluo007.com/)
+- [程序员客栈](https://www.proginn.com/)
+- [码市](https://codemart.com/)
+- [开源众包](https://zb.oschina.net/)
 
 本内容为第一版，后序将继续更新。
 
