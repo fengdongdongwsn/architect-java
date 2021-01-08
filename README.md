@@ -3,6 +3,8 @@
 **本文整理于github上各大star大神仓库。并根据自己的理解重新进行了整理**
 
 > **本文持续更新中**
+>
+> 本文收录于https://github.com/fengdongdongwsn/architect-java
 
 ## 一、计算机基础
 
@@ -116,7 +118,7 @@
 - 进程的概念与分类
 - 线程的概念与分类
 - 进程与线程的区别
-- 进行的状态转换
+- 进程的状态转换
 - CPU调度算法
 - 管程
 - 协程
@@ -686,7 +688,15 @@
 - Filezilla
 - Fiddler
 
-## 十四、学习资源
+## 十四、软实力
+
+- 项目管理
+- 团队管理
+- 个人素养提升
+- 职业素养提升
+- 英语
+
+## 十五、学习资源
 
 ### 1、视频网站
 
@@ -773,13 +783,17 @@
 - [码市](https://codemart.com/)
 - [开源众包](https://zb.oschina.net/)
 
-本内容为第一版，后序将继续更新。
+## 十六、综合类网站
 
-[点击回到顶部](#页内目录)
+- [法律法规](http://www.gov.cn/flfg/)
+- [身体健康](http://www.9ask.cn/souask/q/q3113193.htm)
+- [中华人民共和国职业病防治法](https://duxiaofa.baidu.com/detail?searchType=statute&from=aladdin_28231&originquery=%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%81%8C%E4%B8%9A%E7%97%85%E9%98%B2%E6%B2%BB%E6%B3%95&count=88&cid=a1852015fa9454ed1e1276accc200a28_law)
 
+> 本文持续更新中
+>
+> 本文收录于https://github.com/fengdongdongwsn/architect-java
 
-
-
+![](https://s3.ax1x.com/2020/12/18/rJnbO1.jpg)
 
 
 
