@@ -4,6 +4,8 @@
 
 > **本文持续更新中**
 >
+> [100本java经典电子书百度网盘链接](https://github.com/dahuoyzs/javapdf)
+>
 > 本文收录于https://github.com/fengdongdongwsn/architect-java
 
 ## 一、计算机基础
