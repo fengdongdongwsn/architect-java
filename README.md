@@ -790,6 +790,7 @@
 - [法律法规](http://www.gov.cn/flfg/)
 - [身体健康](http://www.9ask.cn/souask/q/q3113193.htm)
 - [中华人民共和国职业病防治法](https://duxiaofa.baidu.com/detail?searchType=statute&from=aladdin_28231&originquery=%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%81%8C%E4%B8%9A%E7%97%85%E9%98%B2%E6%B2%BB%E6%B3%95&count=88&cid=a1852015fa9454ed1e1276accc200a28_law)
+- [防猝死的方法](https://www.baidu.com/bh/dict/ydxx_8249035871130485651?tab=%E6%97%A5%E5%B8%B8&title=%E7%8C%9D%E6%AD%BB&contentid=ydxx_8249035871130485651&sf_ref=dict_home&from=dicta)
 
 > 本文持续更新中
 >
