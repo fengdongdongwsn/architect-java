@@ -796,6 +796,20 @@
   - [合同法](http://www.npc.gov.cn/wxzl/wxzl/2000-12/06/content_4732.htm)
   - [劳动合同法](http://www.gov.cn/zwgk/2008-09/19/content_1099470.htm)
 
+### 综合小工具
+
+- [在线文件转换](https://link.zhihu.com/?target=http%3A//www.alltoall.net/)
+
+200+种文件格式，视频、音频、图片、文档、表格、电子书等等，再也不用为文件格式转换下载各种工具和软件了。
+
+- [Mathpix Snip](https://link.zhihu.com/?target=https%3A//mathpix.com/)
+
+MAthpix Snip能够准确快速的识别图片中的数学公式，并且转成LaTeX格式，真正能够提升效率的一款工具。
+
+- [DesktopCal](https://link.zhihu.com/?target=http%3A//chs.desktopcal.com/chs/)
+
+DesktopCal是一款功能强大的桌面日历，包含待办事项、农历、24节气、日程安排等功能，而且能够直接平铺在桌面
+
 > 本文持续更新中
 >
 > 本文收录于https://github.com/fengdongdongwsn/architect-java
