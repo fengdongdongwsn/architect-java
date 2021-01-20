@@ -785,6 +785,13 @@
 - [码市](https://codemart.com/)
 - [开源众包](https://zb.oschina.net/)
 
+### 13、个人博客搭建平台
+
+- [hexo](https://hexo.fluid-dev.com/docs/start/)
+- [WordPress](https://cn.wordpress.org/)
+- [jekyll](http://jekyllcn.com/)
+- [hugo](https://www.gohugo.org/)
+
 ## 十六、综合类网站
 
 ### 法律法规&身体健康
@@ -811,6 +818,8 @@ MAthpix Snip能够准确快速的识别图片中的数学公式，并且转成La
 - [DesktopCal](https://link.zhihu.com/?target=http%3A//chs.desktopcal.com/chs/)
 
 DesktopCal是一款功能强大的桌面日历，包含待办事项、农历、24节气、日程安排等功能，而且能够直接平铺在桌面
+
+
 
 > 本文持续更新中
 >
